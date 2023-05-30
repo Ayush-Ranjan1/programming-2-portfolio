@@ -10,4 +10,4 @@ Computer Programming 2 C++
 [Shape Shooter](https://github.com/asuradev99/CP2-Group-project)
 
 Shape Shooter is a game inspired by diep.io as a 2d top-down perspective online shooter. 
-(https://github.com/asuradev99/CP2-Group-project/assets/70330869/886218fc-44a9-4b12-a4de-f4cea48ceb41)
+![image](https://github.com/Ayush-Ranjan1/programming-2-portfolio/assets/70330869/6550b2bb-c661-4f5c-ae2a-c0c3e1ff2923)
