@@ -1,5 +1,5 @@
 # programming-2-portfolio
-Ayush Ranjan 
+Ayush Ranjan - 
 [email](ayusranj9691@granitesd.org)
 
 # certifications
